@@ -1,0 +1,59 @@
+{
+  "user_email": "kalous.p@gmail.com",
+  "last_step": 10,
+  "profil_postup": 100,
+
+  "mazlicek_jmeno": "JSON Test",
+  "mazlicek_obrazek": "https://dev.haffit.cz/wp-content/uploads/konfigurator/haffit-mazlicek-1765056102.jpg",
+  "haffit_default_image": "https://dev.haffit.cz/wp-content/uploads/konfigurator/app-images/normal/Petit Brabancon.png",
+
+  "haffit_dog_gender": "Pes",
+  "haffit_dog_pregnancy": "Ne",
+  "haffit_dog_birth_date": "06. 08. 2021",
+  "haffit_dog_block_navigation": false,
+
+  "input_radio_plemeno": "Znám",
+  "mazlicek_plemeno_value": "Brabantík",
+  "haffit_konfigurator_plemeno_8": 5069,
+  "haffit_velikost_plemene_8": 4662,
+
+  "haffit_dog_age_years": 4,
+  "haffit_dog_age_months": 4,
+  "haffit_dog_age_total_months": 52,
+  "haffit_dog_age_state": "adult",
+  "haffit_puppy_age_in_days": 0,
+  "haffit_is_puppy_checkbox": false,
+  "haffit_is_puppy_auto_set": true,
+  "haffit_dog_maturity": 9,
+
+  "haffit_id_kondice": 5201,
+  "haffit_hmotnost_8": 5,
+  "haffit_aktivita_id": 5192,
+
+  "haffit_selected_alergeny": "p_1245,m_1254,m_1242,m_5298,d_5299,d_5302,d_5303,p_1244,d_5308,d_5309,m_1249",
+  "haffit_selected_alergeny_formatted": "p_1245_Brambory, m_1254_Hovězí, m_1242_Jehněčí, m_5298_Králičí, d_5299_Lepek, d_5302_Oves, d_5303_Pšenice, p_1244_Rýže, d_5308_Sója, d_5309_Vejce, m_1249_Vepřové",
+
+  "haffit_konfigurator_selected_maso": 1241,
+  "haffit_konfigurator_selected_priloha": 1251,
+  "haffit_vybrana_receptura": 5332,
+  "haffit_vybrana_receptura_helios": 7119,
+  "moje_krmivo": "Kuřecí + Kukuřice",
+  "haffit_current_product_id": 9906,
+
+  "obj_pocet_tydnu": 4,
+  "obj_vaha": 2.2,
+  "obj_celkova_cena": 903,
+  "haffit_last_selected_period": 4,
+
+  "haffit_denni_davka": 76,
+  "haffit_energeticky_prijem": "1 430 kJ / 342 kcal",
+  "haffit_nutrient_proteiny": 26,
+  "haffit_nutrient_tuky": 23,
+  "haffit_nutrient_vlaknina": 6,
+  "haffit_nutrient_mineraly": 6,
+  "haffit_nutrient_vapnik_fosfor": "1,2/0,9",
+  "haffit_nutrient_energie": 4508,
+  "helios_product_id": 7119,
+
+  "haffit_fotografie_step_completed": true
+}
