@@ -1,0 +1,146 @@
+{
+    "version": "1.0",
+    "generated": "2025-08-26T15:22:31+02:00",
+    "count": 23,
+    "fieldName": "alergen",
+    "alergeny": {
+        "1245": {
+            "id": 1245,
+            "title": "Brambory",
+            "nazev_cj": "Brambory",
+            "menu_order": 0
+        },
+        "1254": {
+            "id": 1254,
+            "title": "Hovězí",
+            "nazev_cj": "Hovězí",
+            "menu_order": 0
+        },
+        "5296": {
+            "id": 5296,
+            "title": "Ječmen",
+            "nazev_cj": "Ječmen",
+            "menu_order": 0
+        },
+        "1242": {
+            "id": 1242,
+            "title": "Jehněčí",
+            "nazev_cj": "Jehněčí",
+            "menu_order": 0
+        },
+        "1243": {
+            "id": 1243,
+            "title": "Kachní",
+            "nazev_cj": "Kachní",
+            "menu_order": 0
+        },
+        "5297": {
+            "id": 5297,
+            "title": "Korýši a měkkýši",
+            "nazev_cj": "Korýši a měkkýši",
+            "menu_order": 0
+        },
+        "5298": {
+            "id": 5298,
+            "title": "Králík",
+            "nazev_cj": "Králík",
+            "menu_order": 0
+        },
+        "2838": {
+            "id": 2838,
+            "title": "Krůtí",
+            "nazev_cj": "Krůtí",
+            "menu_order": 0
+        },
+        "1251": {
+            "id": 1251,
+            "title": "Kukuřice",
+            "nazev_cj": "Kukuřice",
+            "menu_order": 0
+        },
+        "1241": {
+            "id": 1241,
+            "title": "Kuřecí",
+            "nazev_cj": "Kuřecí",
+            "menu_order": 0
+        },
+        "5299": {
+            "id": 5299,
+            "title": "Lepek",
+            "nazev_cj": "Lepek",
+            "menu_order": 0
+        },
+        "5300": {
+            "id": 5300,
+            "title": "Luštěniny",
+            "nazev_cj": "Luštěniny",
+            "menu_order": 0
+        },
+        "5301": {
+            "id": 5301,
+            "title": "Mléko",
+            "nazev_cj": "Mléko",
+            "menu_order": 0
+        },
+        "5302": {
+            "id": 5302,
+            "title": "Oves",
+            "nazev_cj": "Oves",
+            "menu_order": 0
+        },
+        "5303": {
+            "id": 5303,
+            "title": "Pšenice",
+            "nazev_cj": "Pšenice",
+            "menu_order": 0
+        },
+        "5304": {
+            "id": 5304,
+            "title": "Rybí maso",
+            "nazev_cj": "Rybí maso",
+            "menu_order": 0
+        },
+        "1244": {
+            "id": 1244,
+            "title": "Rýže",
+            "nazev_cj": "Rýže",
+            "menu_order": 0
+        },
+        "5308": {
+            "id": 5308,
+            "title": "Sója",
+            "nazev_cj": "Sója",
+            "menu_order": 0
+        },
+        "2848": {
+            "id": 2848,
+            "title": "Vaječný bílek",
+            "nazev_cj": "Vaječný bílek",
+            "menu_order": 0
+        },
+        "5309": {
+            "id": 5309,
+            "title": "Vejce",
+            "nazev_cj": "Vejce",
+            "menu_order": 0
+        },
+        "1249": {
+            "id": 1249,
+            "title": "Vepřové",
+            "nazev_cj": "Vepřové",
+            "menu_order": 0
+        },
+        "5310": {
+            "id": 5310,
+            "title": "Žito",
+            "nazev_cj": "Žito",
+            "menu_order": 0
+        },
+        "1257": {
+            "id": 1257,
+            "title": "Zvěřina",
+            "nazev_cj": "Zvěřina",
+            "menu_order": 0
+        }
+    }
+}

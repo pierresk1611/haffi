@@ -1,0 +1,889 @@
+{
+    "version": "1.0",
+    "generated": "2025-12-11T09:36:31+01:00",
+    "count": 35,
+    "fieldName": "suroviny",
+    "suroviny": {
+        "p_1245": {
+            "nazev_cj": "Brambory",
+            "kategorie": "priloha",
+            "status": 1,
+            "stitek": "super potravina",
+            "surovina_alergen": [
+                1245,
+                5300
+            ],
+            "is_alergen": true,
+            "slozka_obrazek": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/potatoes2n.jpg",
+                "alt": "Brambory",
+                "width": 80,
+                "height": 221
+            },
+            "popis_cj": "Dobře připravené brambory jsou skvělou přílohou, dodávají řadu nutričně významných látek.",
+            "slozeni_cj": "",
+            "popis_cj_final": "Bramborová přílohová popis finále",
+            "surovina_excerpt": "Dobře připravené brambory jsou skvělou přílohou, dodávají řadu nutričně významných látek.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/bramborypopis-min-300x209.jpg",
+                "alt": "Brambory",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/10/brambory.svg",
+                "alt": "Brambory",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "d_1260": {
+            "nazev_cj": "CBD",
+            "kategorie": "doplnek",
+            "status": 1,
+            "stitek": "",
+            "surovina_alergen": [],
+            "is_alergen": false,
+            "slozka_obrazek": null,
+            "popis_cj": "CBD výtažek z konopí&nbsp;v oleji z tresčích jater. Přináší úlevu, potlačuje úzkost a podporuje imunitní systém. Komplexní, bez psychotropních látek.",
+            "slozeni_cj": "<p class=\"rtecenter\">\tCBD:CBG (10:1) 0,1% v oleji z tresčích jater.</p>",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Přináší úlevu, potlačuje úzkost a podporuje imunitní systém. Komplexní, bez psychotropních látek.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/cbd-300x209.jpeg",
+                "alt": "CBD",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/10/CBD.svg",
+                "alt": "CBD",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "d_1252": {
+            "nazev_cj": "Heřmánek",
+            "kategorie": "doplnek",
+            "status": 1,
+            "stitek": "",
+            "surovina_alergen": [],
+            "is_alergen": false,
+            "slozka_obrazek": null,
+            "popis_cj": "Heřmánek pravý v oleji z tresčích jater.Má zklidňující účinky, zlepšuje náladu a navozuje emocionální klid.",
+            "slozeni_cj": "<p class=\"rtecenter\">\tHeřmánek pravý v oleji z tresčích jater.</p>",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Heřmánek zmírňuje emocionální rozrušení, uzemňuje a přináší emocionální klid, zmírňuje stres, navozuje pohodu.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/hermanekpopis-min-300x209.jpg",
+                "alt": "Heřmánek",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/10/hermanek.svg",
+                "alt": "Heřmánek",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "m_1259": {
+            "nazev_cj": "Hmyz",
+            "kategorie": "maso",
+            "status": 1,
+            "stitek": "",
+            "surovina_alergen": [],
+            "is_alergen": false,
+            "slozka_obrazek": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/hmyz.jpg",
+                "alt": "Hmyz",
+                "width": 80,
+                "height": 221
+            },
+            "popis_cj": "Moučný červ jako přirozeně hypoalergenní a udržitelný zdroj bílkovin. Moderní alternativa k masu.",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Moučný červ jako přirozeně hypoalergenní a udržitelný zdroj bílkovin. Moderní alternativa k masu.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/adobestock253400860-min-300x209.jpeg",
+                "alt": "Hmyz",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/10/hmyz.svg",
+                "alt": "Hmyz",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "m_1254": {
+            "nazev_cj": "Hovězí",
+            "kategorie": "maso",
+            "status": 1,
+            "stitek": "Bestseller",
+            "surovina_alergen": [
+                1254
+            ],
+            "is_alergen": true,
+            "slozka_obrazek": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/beef.jpg",
+                "alt": "Hovězí",
+                "width": 80,
+                "height": 221
+            },
+            "popis_cj": "Chuťově výrazné červené maso přináší dravost a sílu. Pro psy luxusní záležitost.\r\n\r\n",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Chuťově výrazné červené maso přináší dravost a sílu. Pro psy luxusní záležitost.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/hovezipopis-min-300x209.jpeg",
+                "alt": "Hovězí",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/10/hovezi.svg",
+                "alt": "Hovězí",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "p_1246": {
+            "nazev_cj": "Hrách",
+            "kategorie": "priloha",
+            "status": 1,
+            "stitek": "Grain free",
+            "surovina_alergen": [
+                5300,
+                1245
+            ],
+            "is_alergen": false,
+            "slozka_obrazek": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/peas2.jpg",
+                "alt": "Hrách",
+                "width": 80,
+                "height": 221
+            },
+            "popis_cj": "Moderní zdroj plnohodnotných živin jako jsou bílkoviny, komplexní sacharidy a vláknina.",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Moderní zdroj plnohodnotných živin jako jsou bílkoviny, komplexní sacharidy a vláknina.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/hrasekpopis-min-300x209.jpeg",
+                "alt": "Hrách",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/10/hrach.svg",
+                "alt": "Hrách",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "p_2843": {
+            "nazev_cj": "Jablko",
+            "kategorie": "priloha",
+            "status": 0,
+            "stitek": "",
+            "surovina_alergen": [],
+            "is_alergen": false,
+            "slozka_obrazek": null,
+            "popis_cj": "Zdroj rozpustné i nerozpustné vlákniny, minerálů a vitamínů.\r\n\r\n",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Zdroj rozpustné i nerozpustné vlákniny, minerálů a vitamínů.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/jablko-min-300x209.jpeg",
+                "alt": "Jablko",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": null
+        },
+        "d_5296": {
+            "nazev_cj": "Ječmen",
+            "kategorie": "doplnek",
+            "status": 0,
+            "stitek": "",
+            "surovina_alergen": [],
+            "is_alergen": true,
+            "slozka_obrazek": null,
+            "popis_cj": "",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "",
+            "surovina_img_thumbnail": null,
+            "surovina_summary_icon": null
+        },
+        "m_1242": {
+            "nazev_cj": "Jehněčí",
+            "kategorie": "maso",
+            "status": 1,
+            "stitek": "",
+            "surovina_alergen": [
+                1242
+            ],
+            "is_alergen": true,
+            "slozka_obrazek": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/lamb2.jpg",
+                "alt": "Jehněčí",
+                "width": 80,
+                "height": 221
+            },
+            "popis_cj": "Jehněčí maso má výjimečnou chuť a vůni. Je lehce stravitelné a výživově vysoce hodnotné.",
+            "slozeni_cj": "",
+            "popis_cj_final": "Jehněčí masová popis finále",
+            "surovina_excerpt": "Jehněčí maso má výjimečnou chuť a vůni. Je lehce stravitelné a výživově vysoce hodnotné.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/jehnecipopis-min-300x209.jpeg",
+                "alt": "Jehněčí",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/10/jehneci.svg",
+                "alt": "Jehněčí",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "m_9558": {
+            "nazev_cj": "Jelení",
+            "kategorie": "maso",
+            "status": 0,
+            "stitek": "",
+            "surovina_alergen": [
+                1249,
+                1257
+            ],
+            "is_alergen": false,
+            "slozka_obrazek": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/12/jeleni.png",
+                "alt": "Jelení",
+                "width": 80,
+                "height": 221
+            },
+            "popis_cj": "Libové červené maso z divoké přírody. Hypoalergenní a snadno stravitelné.",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Libové červené maso z divoké přírody. Hypoalergenní a snadno stravitelné.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/12/jeleni-vypis-300x213.png",
+                "alt": "Jelení",
+                "width": 300,
+                "height": 213
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/12/jelen.svg",
+                "alt": "Jelení",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "m_1243": {
+            "nazev_cj": "Kachní",
+            "kategorie": "maso",
+            "status": 1,
+            "stitek": "",
+            "surovina_alergen": [
+                1243,
+                1249
+            ],
+            "is_alergen": true,
+            "slozka_obrazek": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/duck2.jpg",
+                "alt": "Kachní",
+                "width": 80,
+                "height": 221
+            },
+            "popis_cj": "Maso z&nbsp;kachny je bílé, výživné a delikátní. Pes voňavé kachně neodolá.",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Maso z kachny je bílé, výživné a delikátní. Pes voňavé kachně neodolá.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/kachnipopis-min-300x209.jpeg",
+                "alt": "Kachní",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/10/kachni.svg",
+                "alt": "Kachní",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "m_9596": {
+            "nazev_cj": "Kapr",
+            "kategorie": "maso",
+            "status": 0,
+            "stitek": "",
+            "surovina_alergen": [
+                1249,
+                5304
+            ],
+            "is_alergen": false,
+            "slozka_obrazek": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/12/kapr.png",
+                "alt": "Kapr",
+                "width": 80,
+                "height": 221
+            },
+            "popis_cj": "Sváteční kapr s typickou chutí a vůní. Bohatý zdroj bílkovin a důležitých minerálů.",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Sváteční kapr s typickou chutí a vůní. Bohatý zdroj bílkovin a důležitých minerálů.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/12/kapr-vypis-300x251.png",
+                "alt": "Kapr",
+                "width": 300,
+                "height": 251
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/12/kapr.svg",
+                "alt": "Kapr",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "d_5297": {
+            "nazev_cj": "Korýši a měkkýši",
+            "kategorie": "doplnek",
+            "status": 0,
+            "stitek": "",
+            "surovina_alergen": [],
+            "is_alergen": true,
+            "slozka_obrazek": null,
+            "popis_cj": "",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "",
+            "surovina_img_thumbnail": null,
+            "surovina_summary_icon": null
+        },
+        "m_5298": {
+            "nazev_cj": "Králičí",
+            "kategorie": "maso",
+            "status": 1,
+            "stitek": "",
+            "surovina_alergen": [
+                1249,
+                5298
+            ],
+            "is_alergen": true,
+            "slozka_obrazek": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/08/kralici.png",
+                "alt": "Králičí",
+                "width": 80,
+                "height": 221
+            },
+            "popis_cj": "Králičí maso je pro psy velmi prospěšné a představuje skvělou volbu, zejména pro psy s citlivým zažíváním nebo alergiemi.",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Králičí maso je pro psy velmi prospěšné a představuje skvělou volbu, zejména pro psy s citlivým zažíváním nebo alergiemi.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/08/kralici-vypis-min-300x251.png",
+                "alt": "Králičí",
+                "width": 300,
+                "height": 251
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/08/kralik.svg",
+                "alt": "Králičí",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "m_2838": {
+            "nazev_cj": "Krůtí",
+            "kategorie": "maso",
+            "status": 0,
+            "stitek": "",
+            "surovina_alergen": [
+                1249
+            ],
+            "is_alergen": false,
+            "slozka_obrazek": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/kruti.png",
+                "alt": "Krůtí",
+                "width": 80,
+                "height": 221
+            },
+            "popis_cj": "Krůtí maso je jemné, lehce stravitelné a bohaté na bílkoviny. Poskytuje psům sílu a vitalitu.",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Krůtí maso je jemné, lehce stravitelné a bohaté na bílkoviny. Poskytuje psům sílu a vitalitu.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/krutivypis-300x209.png",
+                "alt": "Krůtí",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/kruti.svg",
+                "alt": "Krůtí",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "p_1251": {
+            "nazev_cj": "Kukuřice",
+            "kategorie": "priloha",
+            "status": 1,
+            "stitek": "",
+            "surovina_alergen": [
+                5309,
+                1251
+            ],
+            "is_alergen": true,
+            "slozka_obrazek": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/corn2.jpg",
+                "alt": "Kukuřice",
+                "width": 80,
+                "height": 221
+            },
+            "popis_cj": "Kukuřice je bohatým zdrojem cenných živin jako jsou sacharidy a zdravé tuky.",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Kukuřice je bohatým zdrojem cenných živin jako jsou sacharidy a zdravé tuky.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/kukuricepopis-min-300x209.jpeg",
+                "alt": "Kukuřice",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/10/kukurice.svg",
+                "alt": "Kukuřice",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "m_1241": {
+            "nazev_cj": "Kuřecí",
+            "kategorie": "maso",
+            "status": 1,
+            "stitek": "",
+            "surovina_alergen": [
+                1241
+            ],
+            "is_alergen": true,
+            "slozka_obrazek": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/chicken.jpg",
+                "alt": "Kuřecí",
+                "width": 80,
+                "height": 221
+            },
+            "popis_cj": "Kuřecí maso je vhodné pro všechna plemena, od štěňat po seniory. Je výživné, chutné a dobře stravitelné.",
+            "slozeni_cj": "",
+            "popis_cj_final": "Kuřecí masová popis finále",
+            "surovina_excerpt": "Kuřecí maso je vhodné pro všechna plemena, od štěňat po seniory. Je výživné, chutné a dobře stravitelné.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/kurecipopis-min-300x209.jpeg",
+                "alt": "Kuřecí",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/10/kureci.svg",
+                "alt": "Kuřecí",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "d_5299": {
+            "nazev_cj": "Lepek",
+            "kategorie": "doplnek",
+            "status": 0,
+            "stitek": "",
+            "surovina_alergen": [],
+            "is_alergen": true,
+            "slozka_obrazek": null,
+            "popis_cj": "",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "",
+            "surovina_img_thumbnail": null,
+            "surovina_summary_icon": null
+        },
+        "m_1258": {
+            "nazev_cj": "Losos",
+            "kategorie": "maso",
+            "status": 1,
+            "stitek": "",
+            "surovina_alergen": [
+                1249,
+                5304
+            ],
+            "is_alergen": false,
+            "slozka_obrazek": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/salmon_0.jpg",
+                "alt": "Losos",
+                "width": 80,
+                "height": 221
+            },
+            "popis_cj": "Losos je jedním z nejzdravějších druhů ryb na světě. Navíc skvěle chutná.",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Losos je jedním z <h1>nejzdravějších</h1> druhů ryb na světě. Navíc skvěle chutná.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/food-46477681920-min-300x209.jpg",
+                "alt": "Losos",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/10/losos.svg",
+                "alt": "Losos",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "d_5300": {
+            "nazev_cj": "Luštěniny",
+            "kategorie": "doplnek",
+            "status": 0,
+            "stitek": "",
+            "surovina_alergen": [
+                5300
+            ],
+            "is_alergen": true,
+            "slozka_obrazek": null,
+            "popis_cj": "",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "",
+            "surovina_img_thumbnail": null,
+            "surovina_summary_icon": null
+        },
+        "d_1253": {
+            "nazev_cj": "Máta",
+            "kategorie": "doplnek",
+            "status": 1,
+            "stitek": "",
+            "surovina_alergen": [],
+            "is_alergen": false,
+            "slozka_obrazek": null,
+            "popis_cj": "Máta peprná v oleji z tresčích jater.&nbsp;Osvěžuje smysly, energizuje, revitalizuje a povzbuzuje chuť k jídlu.",
+            "slozeni_cj": "<p class=\"rtecenter\">\tMáta peprná v oleji z tresčích jater.</p>",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Máta osvěžuje smysly, energizuje, revitalizuje a povzbuzuje chuť k jídlu.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/matapopis-min-300x209.jpg",
+                "alt": "Máta",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": null
+        },
+        "d_1248": {
+            "nazev_cj": "Meduňka",
+            "kategorie": "doplnek",
+            "status": 1,
+            "stitek": "",
+            "surovina_alergen": [],
+            "is_alergen": false,
+            "slozka_obrazek": null,
+            "popis_cj": "Meduňka lékařská v oleji z tresčích jater.Uklidňuje, uvolňuje, pomáhá od stresu a při nespavosti. Vhodná pro citlivé a bojácné psy.",
+            "slozeni_cj": "<p class=\"rtecenter\">\tMeduňka lékařská v oleji z tresčích jater.</p>",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Meduňka uklidňuje, uvolňuje, pomáhá od stresu a při nespavosti. Vhodná pro citlivé a bojácné psy.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/medunkapopis-min-300x209.jpg",
+                "alt": "Meduňka",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/10/medunka.svg",
+                "alt": "Meduňka",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "d_5301": {
+            "nazev_cj": "Mléko",
+            "kategorie": "doplnek",
+            "status": 0,
+            "stitek": "",
+            "surovina_alergen": [],
+            "is_alergen": true,
+            "slozka_obrazek": null,
+            "popis_cj": "",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "",
+            "surovina_img_thumbnail": null,
+            "surovina_summary_icon": null
+        },
+        "d_2846": {
+            "nazev_cj": "Olej z tresčích jater",
+            "kategorie": "doplnek",
+            "status": 0,
+            "stitek": "",
+            "surovina_alergen": [],
+            "is_alergen": false,
+            "slozka_obrazek": null,
+            "popis_cj": "Olej z tresčích jater má typickou, jemnou, pro psy neodolatelnou rybí chuť a vůni.",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Olej z tresčích jater má typickou, jemnou, pro psy neodolatelnou rybí chuť a vůni.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/tresciolej-min-300x209.jpeg",
+                "alt": "Olej z tresčích jater",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": null
+        },
+        "d_5302": {
+            "nazev_cj": "Oves",
+            "kategorie": "doplnek",
+            "status": 0,
+            "stitek": "",
+            "surovina_alergen": [],
+            "is_alergen": true,
+            "slozka_obrazek": null,
+            "popis_cj": "",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "",
+            "surovina_img_thumbnail": null,
+            "surovina_summary_icon": null
+        },
+        "d_5303": {
+            "nazev_cj": "Pšenice",
+            "kategorie": "doplnek",
+            "status": 0,
+            "stitek": "",
+            "surovina_alergen": [],
+            "is_alergen": true,
+            "slozka_obrazek": null,
+            "popis_cj": "",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "",
+            "surovina_img_thumbnail": null,
+            "surovina_summary_icon": null
+        },
+        "d_5304": {
+            "nazev_cj": "Rybí maso",
+            "kategorie": "doplnek",
+            "status": 0,
+            "stitek": "",
+            "surovina_alergen": [],
+            "is_alergen": true,
+            "slozka_obrazek": null,
+            "popis_cj": "",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "",
+            "surovina_img_thumbnail": null,
+            "surovina_summary_icon": null
+        },
+        "p_1244": {
+            "nazev_cj": "Rýže",
+            "kategorie": "priloha",
+            "status": 1,
+            "stitek": "",
+            "surovina_alergen": [
+                1244,
+                5309
+            ],
+            "is_alergen": true,
+            "slozka_obrazek": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/rice2.jpg",
+                "alt": "Rýže",
+                "width": 80,
+                "height": 221
+            },
+            "popis_cj": "Lehce stravitelná rýže je psy velmi dobře přijímána. Je dietní, přitom velmi výživná.",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Lehce stravitelná rýže je psy velmi dobře přijímána. Je dietní, přitom velmi výživná.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/ryzeobsah-min-300x142.jpeg",
+                "alt": "Rýže",
+                "width": 300,
+                "height": 142
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/10/ryze.svg",
+                "alt": "Rýže",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "d_5308": {
+            "nazev_cj": "Sója",
+            "kategorie": "doplnek",
+            "status": 0,
+            "stitek": "",
+            "surovina_alergen": [],
+            "is_alergen": true,
+            "slozka_obrazek": null,
+            "popis_cj": "",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "",
+            "surovina_img_thumbnail": null,
+            "surovina_summary_icon": null
+        },
+        "m_1250": {
+            "nazev_cj": "Treska",
+            "kategorie": "maso",
+            "status": 1,
+            "stitek": "",
+            "surovina_alergen": [
+                5304,
+                1249
+            ],
+            "is_alergen": false,
+            "slozka_obrazek": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/cod2.jpg",
+                "alt": "Treska",
+                "width": 80,
+                "height": 221
+            },
+            "popis_cj": "Výrazná chuť a vůně rybího masa. Obohacení a zpestření psího jídelníčku.",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Výrazná chuť a vůně rybího masa. Obohacení a zpestření psího jídelníčku.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/treskapopis-min-300x209.jpeg",
+                "alt": "Treska",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/10/treska.svg",
+                "alt": "Treska",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "m_2848": {
+            "nazev_cj": "Vaječný bílek",
+            "kategorie": "maso",
+            "status": 0,
+            "stitek": "",
+            "surovina_alergen": [
+                5309,
+                2848
+            ],
+            "is_alergen": true,
+            "slozka_obrazek": null,
+            "popis_cj": "Šetrný a dokonalý zdroj esenciálních aminokyselin.",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Šetrný a dokonalý zdroj esenciálních aminokyselin.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/vejce-min-300x209.jpeg",
+                "alt": "Vaječný bílek",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": null
+        },
+        "d_5309": {
+            "nazev_cj": "Vejce",
+            "kategorie": "doplnek",
+            "status": 0,
+            "stitek": "",
+            "surovina_alergen": [
+                5309,
+                2848
+            ],
+            "is_alergen": true,
+            "slozka_obrazek": null,
+            "popis_cj": "",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "",
+            "surovina_img_thumbnail": null,
+            "surovina_summary_icon": null
+        },
+        "m_1249": {
+            "nazev_cj": "Vepřové",
+            "kategorie": "maso",
+            "status": 1,
+            "stitek": "",
+            "surovina_alergen": [
+                1249
+            ],
+            "is_alergen": true,
+            "slozka_obrazek": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/pork.jpg",
+                "alt": "Vepřové",
+                "width": 80,
+                "height": 221
+            },
+            "popis_cj": "Vepřové maso je široce uznávaný a tradiční zdroj bílkovin a energie. Patří do vysoce ceněných červených mas.",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Vepřové maso je široce uznávaný a tradiční zdroj bílkovin a energie. Patří do vysoce ceněných červených mas.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/veprovepopis-min-300x200.jpeg",
+                "alt": "Vepřové",
+                "width": 300,
+                "height": 200
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/10/veprove.svg",
+                "alt": "Vepřové",
+                "width": 0,
+                "height": 0
+            }
+        },
+        "d_5310": {
+            "nazev_cj": "Žito",
+            "kategorie": "doplnek",
+            "status": 0,
+            "stitek": "",
+            "surovina_alergen": [],
+            "is_alergen": true,
+            "slozka_obrazek": null,
+            "popis_cj": "",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "",
+            "surovina_img_thumbnail": null,
+            "surovina_summary_icon": null
+        },
+        "m_1257": {
+            "nazev_cj": "Zvěřina",
+            "kategorie": "maso",
+            "status": 1,
+            "stitek": "",
+            "surovina_alergen": [
+                1249,
+                1257
+            ],
+            "is_alergen": true,
+            "slozka_obrazek": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/zverina.jpg",
+                "alt": "Zvěřina",
+                "width": 80,
+                "height": 221
+            },
+            "popis_cj": "Zdraví, síla a lahodnost pramenící z volné přírody, odměnou pro každého psa.",
+            "slozeni_cj": "",
+            "popis_cj_final": "",
+            "surovina_excerpt": "Zdraví, síla a lahodnost pramenící z volné přírody, odměnou pro každého psa.",
+            "surovina_img_thumbnail": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/07/zverinamin-300x209.jpeg",
+                "alt": "Zvěřina",
+                "width": 300,
+                "height": 209
+            },
+            "surovina_summary_icon": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/10/zverina.svg",
+                "alt": "Zvěřina",
+                "width": 0,
+                "height": 0
+            }
+        }
+    }
+}

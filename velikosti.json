@@ -1,0 +1,78 @@
+{
+    "version": "1.0",
+    "generated": "2025-11-29T16:04:53+01:00",
+    "count": 5,
+    "fieldName": "dynamic_field_1",
+    "velikosti": {
+        "4662": {
+            "id": 4662,
+            "title": "Malé plemeno",
+            "img": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/08/male-plemeno.svg",
+                "alt": "Malé plemeno",
+                "width": 200,
+                "height": 200
+            },
+            "popis": "<p>\tHmotnost v dospělosti: <b>4 - 15 kg</b></p><p>Typičtí zástupci: Yorkšírský teriér, Francouzský buldoček, Mops, Jack Russell teriér</p>",
+            "popis_final": "Malá plemena se častěji potýkají s obtížemi kloubní soustavy. [nazev]",
+            "grand_final": "<p>[jméno] patří mezi plemena, která jsou obzvláště citlivá na péči a výživu. Vzhledem k velikosti přijímá malé množství potravy, která ale musí být vysoce kvalitní s důrazem na energetickou hodnotu a současně chutná, aby uspokojila i nejzmlsanější mazlíčky. Díky svému jednoduchému a přirozenému složení Haffit nezatěžuje a neopotřebovává, tím podporuje dlouhověkost a zároveň pečuje o chrup.</p>",
+            "dospelost": 9
+        },
+        "4665": {
+            "id": 4665,
+            "title": "Obří plemeno",
+            "img": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/08/obri-plemeno.svg",
+                "alt": "Obří plemeno",
+                "width": 200,
+                "height": 200
+            },
+            "popis": "<p>Hmotnost v dospělosti: <strong>nad 40 kg</strong></p><p>Typičtí zástupci: Doga, Irský vlkodav, Svatobernardský pes, Velký švýcarský salašnický pes</p>",
+            "popis_final": "q2q2",
+            "grand_final": "<p>[jméno] patří mezi plemena, která jsou obzvláště náročná na přesné vyvážení živin. To je zvlášť důležité v období růstu a stáří. Díky svému jednoduchému a přirozenému složení Haffit nezatěžuje a neopotřebovává, tím podporuje dlouhověkost, pohybový aparát, chrupavky a klouby.</p>",
+            "dospelost": 18
+        },
+        "4663": {
+            "id": 4663,
+            "title": "Střední plemeno",
+            "img": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/08/stredni-plemeno.svg",
+                "alt": "Střední plemeno",
+                "width": 200,
+                "height": 200
+            },
+            "popis": "<p>Hmotnost v dospělosti: <b>15 - 30 kg</b></p><p>\tTypičtí zástupci: Border kolie, Bulteriér, Beagle, Americký pitbulteriér</p>",
+            "popis_final": "Střední plemena se častěji potýkají s obtížemi kloubní soustavy. [nazev]",
+            "grand_final": "<p>[jméno] patří mezi plemena, pro která je typická pohyblivost, temperament a častější pobyt venku. Doprovázejí člověka při všech aktivitách. Vydanou energii potřebuje doplnit kvalitní, velmi dobře stravitelnou a energeticky bohatou potravou. Díky svému jednoduchému a přirozenému složení Haffit nezatěžuje a neopotřebovává, tím podporuje dlouhověkost a zároveň pečuje o chrup.</p>",
+            "dospelost": 13
+        },
+        "4661": {
+            "id": 4661,
+            "title": "Trpasličí plemeno",
+            "img": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/08/trpaslici-plemeno.svg",
+                "alt": "Trpasličí plemeno",
+                "width": 200,
+                "height": 200
+            },
+            "popis": "<p>\tHmotnost v dospělosti: <b>do 4 kg</b> (nezaměňte s malými plemeny)</p><p>\tTypičtí zástupci: Čivava, Maltézský psík, Pražský krysařík</p>",
+            "popis_final": "Trpasličí plemena se častěji potýkají s obtížemi kloubní soustavy. [nazev]",
+            "grand_final": "<p>[jméno] patří mezi plemena, která jsou obzvláště citlivá na péči a výživu. Vzhledem k velikosti přijímá minimální množství potravy, která ale musí být vysoce kvalitní s důrazem na energetickou hodnotu a současně chutná, aby uspokojila i nejzmlsanější mazlíčky. Díky svému jednoduchému a přirozenému složení Haffit nezatěžuje a neopotřebovává, tím podporuje dlouhověkost a zároveň pečuje o chrup.</p>",
+            "dospelost": 9
+        },
+        "4664": {
+            "id": 4664,
+            "title": "Velké plemeno",
+            "img": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/08/velke-plemeno.svg",
+                "alt": "Velké plemeno",
+                "width": 200,
+                "height": 200
+            },
+            "popis": "<p>Hmotnost v dospělosti: <b>30 - 40 kg</b></p><p>Typičtí zástupci: Labradorský retriever,&nbsp;Německý ovčák, Výmarský ohař, Ridgeback</p>",
+            "popis_final": "Velká plemena se častěji potýkají s obtížemi kloubní soustavy. [nazev]",
+            "grand_final": "<p>[jméno] patří mezi plemena, která jsou obzvláště náročná na přesné vyvážení živin. To je zvlášť důležité v období růstu a stáří. Díky svému jednoduchému a přirozenému složení Haffit nezatěžuje a neopotřebovává, tím podporuje dlouhověkost, pohybový aparát, chrupavky a klouby.</p>",
+            "dospelost": 15
+        }
+    }
+}

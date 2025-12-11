@@ -1,0 +1,70 @@
+{
+    "version": "1.1",
+    "generated": "2025-12-11T09:36:31+01:00",
+    "count": 6,
+    "fieldName": "dynamic_kondice",
+    "filters_applied": [],
+    "kondice": {
+        "5200": {
+            "id": 5200,
+            "title": "Hubený - podvyživený",
+            "img": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/08/podviziva.svg",
+                "alt": "Hubený - podvyživený",
+                "width": 200,
+                "height": 200
+            },
+            "popis_final": "[name] má denní dávku nastavenou tak, aby se brzy dostal do ideální kondice."
+        },
+        "5202": {
+            "id": 5202,
+            "title": "Ideální",
+            "img": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/08/idealni-1.svg",
+                "alt": "Ideální",
+                "width": 200,
+                "height": 200
+            },
+            "popis_final": "[name] má denní dávku nastavenou tak, aby si udržoval ideální kondici."
+        },
+        "5203": {
+            "id": 5203,
+            "title": "Mírná nadváha",
+            "img": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/08/nadvaha.svg",
+                "alt": "Mírná nadváha",
+                "width": 200,
+                "height": 200
+            },
+            "popis_final": "[name] má denní dávku nastavenou tak, aby se postupně dostal do ideální kondice."
+        },
+        "5201": {
+            "id": 5201,
+            "title": "Mírná podváha",
+            "img": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/08/podvaha.svg",
+                "alt": "Mírná podváha",
+                "width": 200,
+                "height": 200
+            },
+            "popis_final": "[name] má denní dávku nastavenou tak, aby se postupně dostal do ideální kondice."
+        },
+        "5204": {
+            "id": 5204,
+            "title": "Obézní",
+            "img": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/08/obezita-1.svg",
+                "alt": "Obézní",
+                "width": 200,
+                "height": 200
+            },
+            "popis_final": "[name] má denní dávku nastavenou tak, aby se brzy dostal do ideální kondice."
+        },
+        "8641": {
+            "id": 8641,
+            "title": "puppy",
+            "img": null,
+            "popis_final": ""
+        }
+    }
+}

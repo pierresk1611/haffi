@@ -1,0 +1,68 @@
+{
+    "version": "1.1",
+    "generated": "2025-12-11T09:36:31+01:00",
+    "count": 5,
+    "fieldName": "aktivita",
+    "aktivity": {
+        "5194": {
+            "id": 5194,
+            "title": "Aktivní / Sportovec / Pracující",
+            "menu_order": 0,
+            "img": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/08/aktvini-sportovec-pracujici.svg",
+                "alt": "Aktivní / Sportovec / Pracující",
+                "width": 200,
+                "height": 200
+            },
+            "popis": "<p>\tIntenzivní až extrémní zátěž.<br />\tSlužební nebo pracovní pes.<br />\tAktivně soutěžní pes.</p>",
+            "popis_final": "Denní dávka pro vašeho psa je přizpůsobena mimořádnému energetickému výdeji."
+        },
+        "5192": {
+            "id": 5192,
+            "title": "Běžná aktivita",
+            "menu_order": 0,
+            "img": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/08/bezna-aktivita.svg",
+                "alt": "Běžná aktivita",
+                "width": 200,
+                "height": 200
+            },
+            "popis": "<p>\tNormální zátěž.<br />\tPravidelné procházky.<br />\tObčas delší výlet.</p>",
+            "popis_final": "Denní dávka pro vašeho psa je přizpůsobena běžnému energetickému výdeji."
+        },
+        "5191": {
+            "id": 5191,
+            "title": "Gaučák",
+            "menu_order": 0,
+            "img": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/08/gaucak.svg",
+                "alt": "Gaučák",
+                "width": 200,
+                "height": 200
+            },
+            "popis": "<p>\tŽije doma.<br />\tVždy v teple.<br />\tMá minimum procházek.</p>",
+            "popis_final": "Denní dávka pro vašeho psa je přizpůsobena nižšímu energetickému výdeji."
+        },
+        "8642": {
+            "id": 8642,
+            "title": "puppy",
+            "menu_order": 0,
+            "img": null,
+            "popis": "",
+            "popis_final": ""
+        },
+        "5193": {
+            "id": 5193,
+            "title": "Zvýšená aktivita",
+            "menu_order": 0,
+            "img": {
+                "url": "https://dev.haffit.cz/wp-content/uploads/2025/08/zvysena-aktivita.svg",
+                "alt": "Zvýšená aktivita",
+                "width": 200,
+                "height": 200
+            },
+            "popis": "<p>\tVenkovní pes.<br />\tPravidelný výcvik.<br />\tLehké sportovní a pracovní aktivity.</p>",
+            "popis_final": "Denní dávka pro vašeho psa je přizpůsobena vyššímu energetickému výdeji."
+        }
+    }
+}

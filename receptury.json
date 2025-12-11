@@ -1,0 +1,2023 @@
+{
+    "version": "2.0",
+    "generated": "2025-12-11T09:36:31+01:00",
+    "total_combinations": 104,
+    "fieldName": "receptura",
+    "migration": {
+        "from_version": "1.0",
+        "transformed_at": "2025-12-11T09:36:31+01:00",
+        "original_count": 104
+    },
+    "typy": {
+        "grow": {
+            "count": 52,
+            "masa": {
+                "1259": {
+                    "nazev": "Hmyz",
+                    "cena_kategorie": "HIGH",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 5350,
+                                "nazev_cj": "Hmyz + Brambory",
+                                "typ_receptury": "grow",
+                                "maso_id": 1259,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tNáplň 68% (moučný červ), brambory, hrách, rostlinný tuk.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Hmyz a brambory si pro svého psa v minulém týdnu vybralo 538 zákazníků.</strong></h5>",
+                                "helios_product_id": 7693,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 5351,
+                                "nazev_cj": "Hmyz + Hrách",
+                                "typ_receptury": "grow",
+                                "maso_id": 1259,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tNáplň 68% (moučný červ), hrách, brambory, rostlinný tuk.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Hmyz a hrách si pro svého psa v minulém týdnu vybralo 480 zákazníků.</strong></h5>",
+                                "helios_product_id": 7693,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 5352,
+                                "nazev_cj": "Hmyz + Kukuřice",
+                                "typ_receptury": "grow",
+                                "maso_id": 1259,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tNáplň 68% (moučný červ), kukuřice, rostlinný tuk, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Hmyz a kukuřici si pro svého psa v minulém týdnu vybralo 364 zákazníků.</strong></h5>",
+                                "helios_product_id": 7684,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 5353,
+                                "nazev_cj": "Hmyz + Rýže",
+                                "typ_receptury": "grow",
+                                "maso_id": 1259,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tNáplň 68% (moučný červ), rýže, rostlinný tuk, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Hmyz a rýži si pro svého psa v minulém týdnu vybralo 455 zákazníků.</strong></h5>",
+                                "helios_product_id": 7675,
+                                "version_id": "03500541"
+                            }
+                        }
+                    }
+                },
+                "1254": {
+                    "nazev": "Hovězí",
+                    "cena_kategorie": "MID",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 5354,
+                                "nazev_cj": "Hovězí + Brambory",
+                                "typ_receptury": "grow",
+                                "maso_id": 1254,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (hovězí maso), brambory, hrách.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Hovězí a brambory si pro svého psa v minulém týdnu vybralo 471 zákazníků.</strong></h5>",
+                                "helios_product_id": 7191,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 5355,
+                                "nazev_cj": "Hovězí + Hrách",
+                                "typ_receptury": "grow",
+                                "maso_id": 1254,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (hovězí maso), hrách, brambory.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Hovězí a hrách si pro svého psa v minulém týdnu vybralo 407 zákazníků.</strong></h5>",
+                                "helios_product_id": 7191,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 5356,
+                                "nazev_cj": "Hovězí + Kukuřice",
+                                "typ_receptury": "grow",
+                                "maso_id": 1254,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (hovězí maso), kukuřice, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Hovězí a kukuřici si pro svého psa v minulém týdnu vybralo 504 zákazníků.</strong></h5>",
+                                "helios_product_id": 7137,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 5357,
+                                "nazev_cj": "Hovězí + Rýže",
+                                "typ_receptury": "grow",
+                                "maso_id": 1254,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (hovězí maso), rýže, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Hovězí a rýži si pro svého psa v minulém týdnu vybralo 351 zákazníků.</strong></h5>",
+                                "helios_product_id": 7083,
+                                "version_id": "03500541"
+                            }
+                        }
+                    }
+                },
+                "1242": {
+                    "nazev": "Jehněčí",
+                    "cena_kategorie": "HIGH",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 5358,
+                                "nazev_cj": "Jehněčí + Brambory",
+                                "typ_receptury": "grow",
+                                "maso_id": 1242,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (jehněčí maso, vepřové maso), brambory, hrách.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Jehněčí a brambory si pro svého psa v minulém týdnu vybralo 383 zákazníků.</strong></h5>",
+                                "helios_product_id": 7182,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 5359,
+                                "nazev_cj": "Jehněčí + Hrách",
+                                "typ_receptury": "grow",
+                                "maso_id": 1242,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (jehněčí maso, vepřové maso), hrách, brambory.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Jehněčí a hrách si pro svého psa v minulém týdnu vybralo 434 zákazníků.</strong></h5>",
+                                "helios_product_id": 7182,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 5360,
+                                "nazev_cj": "Jehněčí + Kukuřice",
+                                "typ_receptury": "grow",
+                                "maso_id": 1242,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (jehněčí maso, vepřové maso), kukuřice, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Jehněčí a kukuřici si pro svého psa v minulém týdnu vybralo 389 zákazníků.</strong></h5>",
+                                "helios_product_id": 7128,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 5361,
+                                "nazev_cj": "Jehněčí + Rýže",
+                                "typ_receptury": "grow",
+                                "maso_id": 1242,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (jehněčí maso, vepřové maso), rýže, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Jehněčí a rýži si pro svého psa v minulém týdnu vybralo 471 zákazníků.</strong></h5>",
+                                "helios_product_id": 7074,
+                                "version_id": "03500541"
+                            }
+                        }
+                    }
+                },
+                "9558": {
+                    "nazev": "Jelení",
+                    "cena_kategorie": "HIGH",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 9576,
+                                "nazev_cj": "Jelení + Brambory",
+                                "typ_receptury": "grow",
+                                "maso_id": 9558,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (jelení maso, vepřové maso), brambory, hrách.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Jelení a brambory si pro svého psa v minulém týdnu vybralo 72 zákazníků.</strong></h5>",
+                                "helios_product_id": 7530,
+                                "version_id": "00610167"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 9574,
+                                "nazev_cj": "Jelení + Hrách",
+                                "typ_receptury": "grow",
+                                "maso_id": 9558,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (jelení maso, vepřové maso), hrách, brambory.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Jelení a hrách si pro svého psa v minulém týdnu vybralo 132 zákazníků.</strong></h5>",
+                                "helios_product_id": 7530,
+                                "version_id": "00540167"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 9573,
+                                "nazev_cj": "Jelení + Kukuřice",
+                                "typ_receptury": "grow",
+                                "maso_id": 9558,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (jelení maso, vepřové maso), kukuřice, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Jelení a kukuřici&nbsp;si pro svého psa v minulém týdnu vybralo 88 zákazníků.</strong></h5>",
+                                "helios_product_id": 7521,
+                                "version_id": "00470181"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 9572,
+                                "nazev_cj": "Jelení + Rýže",
+                                "typ_receptury": "grow",
+                                "maso_id": 9558,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (jelení maso, vepřové maso), rýže, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Jelení a rýži si pro svého psa v minulém týdnu vybralo 243 zákazníků.</strong></h5>",
+                                "helios_product_id": 7512,
+                                "version_id": "01250288"
+                            }
+                        }
+                    }
+                },
+                "1243": {
+                    "nazev": "Kachní",
+                    "cena_kategorie": "MID",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 5362,
+                                "nazev_cj": "Kachní + Brambory",
+                                "typ_receptury": "grow",
+                                "maso_id": 1243,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (kachní maso, vepřové maso), brambory, hrách.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Kachní a brambory si pro svého psa v minulém týdnu vybralo 503 zákazníků.</strong></h5>",
+                                "helios_product_id": 7218,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 5363,
+                                "nazev_cj": "Kachní + Hrách",
+                                "typ_receptury": "grow",
+                                "maso_id": 1243,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (kachní maso, vepřové maso), hrách, brambory.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Kachní a hrách&nbsp;si pro svého psa v minulém týdnu vybralo 431 zákazníků.</strong></h5>",
+                                "helios_product_id": 7218,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 5364,
+                                "nazev_cj": "Kachní + Kukuřice",
+                                "typ_receptury": "grow",
+                                "maso_id": 1243,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (kachní maso, vepřové maso), kukuřice, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Kachní a kukuřici si pro svého psa v minulém týdnu vybralo 382 zákazníků.</strong></h5>",
+                                "helios_product_id": 7164,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 5365,
+                                "nazev_cj": "Kachní + Rýže",
+                                "typ_receptury": "grow",
+                                "maso_id": 1243,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (kachní maso, vepřové maso), rýže, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Kachní a rýži si pro svého psa v minulém týdnu vybralo 464 zákazníků.</strong></h5>",
+                                "helios_product_id": 7110,
+                                "version_id": "03500541"
+                            }
+                        }
+                    }
+                },
+                "9596": {
+                    "nazev": "Kapr",
+                    "cena_kategorie": "HIGH",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 9605,
+                                "nazev_cj": "Kapr + Brambory",
+                                "typ_receptury": "grow",
+                                "maso_id": 9596,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "speciální nabídka",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (kapří maso, vepřové maso), brambory, hrách.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Kapra a brambory si pro svého psa v minulém týdnu vybralo 69 zákazníků.</strong></h5>",
+                                "helios_product_id": 7200,
+                                "version_id": "00680160"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 9604,
+                                "nazev_cj": "Kapr + Hrách",
+                                "typ_receptury": "grow",
+                                "maso_id": 9596,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (kapří maso, vepřové maso), hrách, brambory.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Kapra a hrách si pro svého psa v minulém týdnu vybralo 135 zákazníků.</strong></h5>",
+                                "helios_product_id": 7200,
+                                "version_id": "00680167"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 9603,
+                                "nazev_cj": "Kapr + Kukuřice",
+                                "typ_receptury": "grow",
+                                "maso_id": 9596,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (kapří maso, vepřové maso), kukuřice, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Kapra a kukuřici si pro svého psa v minulém týdnu vybralo 92 zákazníků.</strong></h5>",
+                                "helios_product_id": 7146,
+                                "version_id": "00470132"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 9601,
+                                "nazev_cj": "Kapr + Rýže",
+                                "typ_receptury": "grow",
+                                "maso_id": 9596,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (kapří maso, vepřové maso), rýže, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Kapra a rýži si pro svého psa v minulém týdnu vybralo 118 zákazníků.</strong></h5>",
+                                "helios_product_id": 7092,
+                                "version_id": "00820217"
+                            }
+                        }
+                    }
+                },
+                "5298": {
+                    "nazev": "Králičí",
+                    "cena_kategorie": "MID",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 9410,
+                                "nazev_cj": "Králičí + Brambory",
+                                "typ_receptury": "grow",
+                                "maso_id": 5298,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (králičí maso, vepřové maso), brambory, hrách.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Králičí a brambory si pro svého psa v minulém týdnu vybralo 108 zákazníků.</strong></h5>",
+                                "helios_product_id": 8114,
+                                "version_id": "00820217"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 9409,
+                                "nazev_cj": "Králičí + Hrách",
+                                "typ_receptury": "grow",
+                                "maso_id": 5298,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% králičí maso, vepřové maso), hrách, brambory.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Králičí a hrách si pro svého psa v minulém týdnu vybralo 150 zákazníků.</strong></h5>",
+                                "helios_product_id": 8114,
+                                "version_id": "00890224"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 9408,
+                                "nazev_cj": "Králičí + Kukuřice",
+                                "typ_receptury": "grow",
+                                "maso_id": 5298,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (králičí maso, vepřové maso), kukuřice, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Králičí a kukuřici si pro svého psa v minulém týdnu vybralo 49 zákazníků.</strong></h5>",
+                                "helios_product_id": 8105,
+                                "version_id": "00470195"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 9407,
+                                "nazev_cj": "Králičí + Rýže",
+                                "typ_receptury": "grow",
+                                "maso_id": 5298,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (králičí maso, vepřové maso), rýže, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Králičí a rýži si pro svého psa v minulém týdnu vybralo 214 zákazníků.</strong></h5>",
+                                "helios_product_id": 8096,
+                                "version_id": "00750217"
+                            }
+                        }
+                    }
+                },
+                "2838": {
+                    "nazev": "Krůtí",
+                    "cena_kategorie": "MID",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 9520,
+                                "nazev_cj": "Krůtí + Brambory",
+                                "typ_receptury": "grow",
+                                "maso_id": 2838,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (krůtí maso, vepřové maso), brambory, hrách.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Krůtí a brambory si pro svého psa v minulém týdnu vybralo 165 zákazníků.</strong></h5>",
+                                "helios_product_id": 8074,
+                                "version_id": "01030280"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 9519,
+                                "nazev_cj": "Krůtí + Hrách",
+                                "typ_receptury": "grow",
+                                "maso_id": 2838,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (krůtí maso, vepřové maso), hrách, brambory.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Krůtí a hrách si pro svého psa v minulém týdnu vybralo 253 zákazníků.</strong></h5>",
+                                "helios_product_id": 8074,
+                                "version_id": "01320273"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 9518,
+                                "nazev_cj": "Krůtí + Kukuřice",
+                                "typ_receptury": "grow",
+                                "maso_id": 2838,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (krůtí maso, vepřové maso), kukuřice, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Krůtí a kukuřici si pro svého psa v minulém týdnu vybralo 173 zákazníků.</strong></h5>",
+                                "helios_product_id": 8065,
+                                "version_id": "00750188"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 9517,
+                                "nazev_cj": "Krůtí + Rýže",
+                                "typ_receptury": "grow",
+                                "maso_id": 2838,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (krůtí maso, vepřové maso), rýže, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Krůtí a rýži si pro svého psa v minulém týdnu vybralo 186 zákazníků.</strong></h5>",
+                                "helios_product_id": 8083,
+                                "version_id": "01320295"
+                            }
+                        }
+                    }
+                },
+                "1241": {
+                    "nazev": "Kuřecí",
+                    "cena_kategorie": "LOW",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 5366,
+                                "nazev_cj": "Kuřecí + Brambory",
+                                "typ_receptury": "grow",
+                                "maso_id": 1241,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "LOW",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (kuřecí maso), brambory, hrách.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Kuřecí&nbsp;a brambory si pro svého psa v minulém týdnu vybralo 465 zákazníků.</strong></h5>",
+                                "helios_product_id": 7173,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 5367,
+                                "nazev_cj": "Kuřecí + Hrách",
+                                "typ_receptury": "grow",
+                                "maso_id": 1241,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "LOW",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (kuřecí maso), hrách, brambory.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Kuřecí&nbsp;a hrách si pro svého psa v minulém týdnu vybralo 386 zákazníků.</strong></h5>",
+                                "helios_product_id": 7173,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 5368,
+                                "nazev_cj": "Kuřecí + Kukuřice",
+                                "typ_receptury": "grow",
+                                "maso_id": 1241,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "LOW",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (kuřecí maso), kukuřice, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Kuřecí&nbsp;a kukuřici&nbsp;si pro svého psa v minulém týdnu vybralo 491 zákazníků.</strong></h5>",
+                                "helios_product_id": 7119,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 5369,
+                                "nazev_cj": "Kuřecí + Rýže",
+                                "typ_receptury": "grow",
+                                "maso_id": 1241,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "LOW",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (kuřecí maso), rýže, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Kuřecí&nbsp;a rýži&nbsp;si pro svého psa v minulém týdnu vybralo 278 zákazníků.</strong></h5>",
+                                "helios_product_id": 7065,
+                                "version_id": "02160827"
+                            }
+                        }
+                    }
+                },
+                "1258": {
+                    "nazev": "Losos",
+                    "cena_kategorie": "HIGH",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 5370,
+                                "nazev_cj": "Losos + Brambory",
+                                "typ_receptury": "grow",
+                                "maso_id": 1258,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (maso z lososa, vepřové maso), brambory, hrách.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Lososa a brambory si pro svého psa v minulém týdnu vybralo 369 zákazníků.</strong></h5>",
+                                "helios_product_id": 7200,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 5371,
+                                "nazev_cj": "Losos + Hrách",
+                                "typ_receptury": "grow",
+                                "maso_id": 1258,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "NE",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (maso z lososa, vepřové maso), hrách, brambory.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Lososa a hrách si pro svého psa v minulém týdnu vybralo 512 zákazníků.</strong></h5>",
+                                "helios_product_id": 7200,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 5372,
+                                "nazev_cj": "Losos + Kukuřice",
+                                "typ_receptury": "grow",
+                                "maso_id": 1258,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (maso z lososa, vepřové maso), kukuřice, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Lososa a kukuřici si pro svého psa v minulém týdnu vybralo 367 zákazníků.</strong></h5>",
+                                "helios_product_id": 7146,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 5373,
+                                "nazev_cj": "Losos + Rýže",
+                                "typ_receptury": "grow",
+                                "maso_id": 1258,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (maso z lososa, vepřové maso), rýže, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Lososa a rýži si pro svého psa v minulém týdnu vybralo 368 zákazníků.</strong></h5>",
+                                "helios_product_id": 7092,
+                                "version_id": "02430543"
+                            }
+                        }
+                    }
+                },
+                "1250": {
+                    "nazev": "Treska",
+                    "cena_kategorie": "HIGH",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 5374,
+                                "nazev_cj": "Treska + Brambory",
+                                "typ_receptury": "grow",
+                                "maso_id": 1250,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (maso z tresky, vepřové maso), brambory, hrách.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Tresku a brambory si pro svého psa v minulém týdnu vybralo 0 zákazníků.</strong></h5>",
+                                "helios_product_id": 7200,
+                                "version_id": "00000000"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 5375,
+                                "nazev_cj": "Treska + Hrách",
+                                "typ_receptury": "grow",
+                                "maso_id": 1250,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (maso z tresky, vepřové maso), hrách, brambory.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Tresku a hrách si pro svého psa v minulém týdnu vybralo 355 zákazníků.</strong></h5>",
+                                "helios_product_id": 7200,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 5376,
+                                "nazev_cj": "Treska + Kukuřice",
+                                "typ_receptury": "grow",
+                                "maso_id": 1250,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (maso z tresky, vepřové maso), kukuřice, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Tresku a kukuřici si pro svého psa v minulém týdnu vybralo 494 zákazníků.</strong></h5>",
+                                "helios_product_id": 7146,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 5377,
+                                "nazev_cj": "Treska + Rýže",
+                                "typ_receptury": "grow",
+                                "maso_id": 1250,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (maso z tresky, vepřové maso), rýže, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Tresku a rýži si pro svého psa v minulém týdnu vybralo 0 zákazníků.</strong></h5>",
+                                "helios_product_id": 7092,
+                                "version_id": "00000000"
+                            }
+                        }
+                    }
+                },
+                "1249": {
+                    "nazev": "Vepřové",
+                    "cena_kategorie": "LOW",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 5378,
+                                "nazev_cj": "Vepřové + Brambory",
+                                "typ_receptury": "grow",
+                                "maso_id": 1249,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "LOW",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (vepřové maso), brambory, hrách.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Vepřové a brambory si pro svého psa v minulém týdnu vybralo 0 zákazníků.</strong></h5>",
+                                "helios_product_id": 7209,
+                                "version_id": "00000000"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 5379,
+                                "nazev_cj": "Vepřové + Hrách",
+                                "typ_receptury": "grow",
+                                "maso_id": 1249,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "LOW",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (vepřové maso), hrách, brambory.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Vepřové a hrách si pro svého psa v minulém týdnu vybralo 528 zákazníků.</strong></h5>",
+                                "helios_product_id": 7209,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 5380,
+                                "nazev_cj": "Vepřové + Kukuřice",
+                                "typ_receptury": "grow",
+                                "maso_id": 1249,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "LOW",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (vepřové maso), kukuřice, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Vepřové a kukuřici si pro svého psa v minulém týdnu vybralo 532 zákazníků.</strong></h5>",
+                                "helios_product_id": 7155,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 5381,
+                                "nazev_cj": "Vepřové + Rýže",
+                                "typ_receptury": "grow",
+                                "maso_id": 1249,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "LOW",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (vepřové maso), rýže, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Vepřové a rýži si pro svého psa v minulém týdnu vybralo 509 zákazníků.</strong></h5>",
+                                "helios_product_id": 7101,
+                                "version_id": "03500541"
+                            }
+                        }
+                    }
+                },
+                "1257": {
+                    "nazev": "Zvěřina",
+                    "cena_kategorie": "HIGH",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 5382,
+                                "nazev_cj": "Zvěřina + Brambory",
+                                "typ_receptury": "grow",
+                                "maso_id": 1257,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (jelení a srnčí maso, vepřové maso), brambory, hrách.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Zvěřinu a brambory si pro svého psa v minulém týdnu vybralo 492 zákazníků.</strong></h5>",
+                                "helios_product_id": 7530,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 5383,
+                                "nazev_cj": "Zvěřina + Hrách",
+                                "typ_receptury": "grow",
+                                "maso_id": 1257,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (jelení a srnčí maso, vepřové maso), hrách, brambory.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Zvěřinu a hrách si pro svého psa v minulém týdnu vybralo 480 zákazníků.</strong></h5>",
+                                "helios_product_id": 7530,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 5384,
+                                "nazev_cj": "Zvěřina + Kukuřice",
+                                "typ_receptury": "grow",
+                                "maso_id": 1257,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (jelení a srnčí maso, vepřové maso), kukuřice, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Zvěřinu a kukuřici&nbsp;si pro svého psa v minulém týdnu vybralo 400 zákazníků.</strong></h5>",
+                                "helios_product_id": 7521,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 5385,
+                                "nazev_cj": "Zvěřina + Rýže",
+                                "typ_receptury": "grow",
+                                "maso_id": 1257,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (jelení a srnčí maso, vepřové maso), rýže, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Zvěřinu a rýži si pro svého psa v minulém týdnu vybralo 363 zákazníků.</strong></h5>",
+                                "helios_product_id": 7512,
+                                "version_id": "03500541"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "maintenance": {
+            "count": 52,
+            "masa": {
+                "1259": {
+                    "nazev": "Hmyz",
+                    "cena_kategorie": "HIGH",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 5314,
+                                "nazev_cj": "Hmyz + Brambory",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1259,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tNáplň 68% (moučný červ), brambory, hrách, rostlinný tuk.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Hmyz a brambory si pro svého psa v minulém týdnu vybralo 0 zákazníků.</strong></h5>",
+                                "helios_product_id": 7693,
+                                "version_id": "00000000"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 5315,
+                                "nazev_cj": "Hmyz + Hrách",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1259,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "za 14 dní",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tNáplň 68% (moučný červ), hrách, brambory, rostlinný tuk.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Hmyz a hrách si pro svého psa v minulém týdnu vybralo 0 zákazníků.</strong></h5>",
+                                "helios_product_id": 7693,
+                                "version_id": "00000000"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 5316,
+                                "nazev_cj": "Hmyz + Kukuřice",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1259,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tNáplň 68% (moučný červ), kukuřice, rostlinný tuk, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Hmyz a kukuřici si pro svého psa v minulém týdnu vybralo 372 zákazníků.</strong></h5>",
+                                "helios_product_id": 7684,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 5317,
+                                "nazev_cj": "Hmyz + Rýže",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1259,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tNáplň 68% (moučný červ), rýže, rostlinný tuk, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Hmyz a rýži si pro svého psa v minulém týdnu vybralo 414 zákazníků.</strong></h5>",
+                                "helios_product_id": 7675,
+                                "version_id": "03500541"
+                            }
+                        }
+                    }
+                },
+                "1254": {
+                    "nazev": "Hovězí",
+                    "cena_kategorie": "MID",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 5318,
+                                "nazev_cj": "Hovězí + Brambory",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1254,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (hovězí maso), brambory, hrách.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Hovězí a brambory si pro svého psa v minulém týdnu vybralo 390 zákazníků.</strong></h5>",
+                                "helios_product_id": 7191,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 5319,
+                                "nazev_cj": "Hovězí + Hrách",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1254,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (hovězí maso), hrách, brambory.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Hovězí a hrách si pro svého psa v minulém týdnu vybralo 537 zákazníků.</strong></h5>",
+                                "helios_product_id": 7191,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 5320,
+                                "nazev_cj": "Hovězí + Kukuřice",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1254,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (hovězí maso), kukuřice, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Hovězí a kukuřici si pro svého psa v minulém týdnu vybralo 535 zákazníků.</strong></h5>",
+                                "helios_product_id": 7137,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 5321,
+                                "nazev_cj": "Hovězí + Rýže",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1254,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "Na začátku příštího týdne",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (hovězí maso), rýže, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Hovězí a rýži si pro svého psa v minulém týdnu vybralo 408 zákazníků.</strong></h5>",
+                                "helios_product_id": 7083,
+                                "version_id": "01320422"
+                            }
+                        }
+                    }
+                },
+                "1242": {
+                    "nazev": "Jehněčí",
+                    "cena_kategorie": "HIGH",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 5322,
+                                "nazev_cj": "Jehněčí + Brambory",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1242,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (jehněčí maso, vepřové maso), brambory, hrách.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Jehněčí a brambory si pro svého psa v minulém týdnu vybralo 462 zákazníků.</strong></h5>",
+                                "helios_product_id": 7182,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 5323,
+                                "nazev_cj": "Jehněčí + Hrách",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1242,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (jehněčí maso, vepřové maso), hrách, brambory.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Jehněčí a hrách si pro svého psa v minulém týdnu vybralo 433 zákazníků.</strong></h5>",
+                                "helios_product_id": 7182,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 5324,
+                                "nazev_cj": "Jehněčí + Kukuřice",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1242,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (jehněčí maso, vepřové maso), kukuřice, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Jehněčí a kukuřici si pro svého psa v minulém týdnu vybralo 492 zákazníků.</strong></h5>",
+                                "helios_product_id": 7128,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 5325,
+                                "nazev_cj": "Jehněčí + Rýže",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1242,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (jehněčí maso, vepřové maso), rýže, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Jehněčí a rýži si pro svého psa v minulém týdnu vybralo 531 zákazníků.</strong></h5>",
+                                "helios_product_id": 7074,
+                                "version_id": "03500541"
+                            }
+                        }
+                    }
+                },
+                "9558": {
+                    "nazev": "Jelení",
+                    "cena_kategorie": "HIGH",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 9589,
+                                "nazev_cj": "Jelení + Brambory",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 9558,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (jelení maso, vepřové maso), brambory, hrách.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Jelení a brambory si pro svého psa v minulém týdnu vybralo 175 zákazníků.</strong></h5>",
+                                "helios_product_id": 7530,
+                                "version_id": "00540188"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 9588,
+                                "nazev_cj": "Jelení + Hrách",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 9558,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (jelení maso, vepřové maso), hrách, brambory.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Jelení a hrách si pro svého psa v minulém týdnu vybralo 164 zákazníků.</strong></h5>",
+                                "helios_product_id": 7530,
+                                "version_id": "00680174"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 9586,
+                                "nazev_cj": "Jelení + Kukuřice",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 9558,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (jelení maso, vepřové maso), kukuřice, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Jelení a kukuřici&nbsp;si pro svého psa v minulém týdnu vybralo 150 zákazníků.</strong></h5>",
+                                "helios_product_id": 7521,
+                                "version_id": "00750188"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 9577,
+                                "nazev_cj": "Jelení + Rýže",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 9558,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (jelení maso, vepřové maso), rýže, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Jelení a rýži si pro svého psa v minulém týdnu vybralo 139 zákazníků.</strong></h5>",
+                                "helios_product_id": 7512,
+                                "version_id": "01030252"
+                            }
+                        }
+                    }
+                },
+                "1243": {
+                    "nazev": "Kachní",
+                    "cena_kategorie": "MID",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 5326,
+                                "nazev_cj": "Kachní + Brambory",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1243,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (kachní maso, vepřové maso), brambory, hrách.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Kachní a brambory si pro svého psa v minulém týdnu vybralo 518 zákazníků.</strong></h5>",
+                                "helios_product_id": 7218,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 5327,
+                                "nazev_cj": "Kachní + Hrách",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1243,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (kachní maso, vepřové maso), hrách, brambory.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Kachní a hrách&nbsp;si pro svého psa v minulém týdnu vybralo 351 zákazníků.</strong></h5>",
+                                "helios_product_id": 7218,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 5328,
+                                "nazev_cj": "Kachní + Kukuřice",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1243,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (kachní maso, vepřové maso), kukuřice, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Kachní a kukuřici si pro svého psa v minulém týdnu vybralo 520 zákazníků.</strong></h5>",
+                                "helios_product_id": 7164,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 5329,
+                                "nazev_cj": "Kachní + Rýže",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1243,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (kachní maso, vepřové maso), rýže, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Kachní a rýži si pro svého psa v minulém týdnu vybralo 373 zákazníků.</strong></h5>",
+                                "helios_product_id": 7110,
+                                "version_id": "03500541"
+                            }
+                        }
+                    }
+                },
+                "9596": {
+                    "nazev": "Kapr",
+                    "cena_kategorie": "HIGH",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 9610,
+                                "nazev_cj": "Kapr + Brambory",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 9596,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "speciální nabídka",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (kapří maso, vepřové maso), brambory, hrách.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Kapra a brambory si pro svého psa v minulém týdnu vybralo 186 zákazníků.</strong></h5>",
+                                "helios_product_id": 7200,
+                                "version_id": "01530259"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 9609,
+                                "nazev_cj": "Kapr + Hrách",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 9596,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (kapří maso, vepřové maso), hrách, brambory.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Kapra a hrách si pro svého psa v minulém týdnu vybralo 97 zákazníků.</strong></h5>",
+                                "helios_product_id": 7200,
+                                "version_id": "00540132"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 9607,
+                                "nazev_cj": "Kapr + Kukuřice",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 9596,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (kapří maso, vepřové maso), kukuřice, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Kapra a kukuřici si pro svého psa v minulém týdnu vybralo 99 zákazníků.</strong></h5>",
+                                "helios_product_id": 7146,
+                                "version_id": "00750132"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 9606,
+                                "nazev_cj": "Kapr + Rýže",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 9596,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (kapří maso, vepřové maso), rýže, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Kapra a rýži si pro svého psa v minulém týdnu vybralo 161 zákazníků.</strong></h5>",
+                                "helios_product_id": 7092,
+                                "version_id": "01030245"
+                            }
+                        }
+                    }
+                },
+                "5298": {
+                    "nazev": "Králičí",
+                    "cena_kategorie": "MID",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 9414,
+                                "nazev_cj": "Králičí + Brambory",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 5298,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (králičí maso, vepřové maso), brambory, hrách.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Králičí a brambory si pro svého psa v minulém týdnu vybralo 149 zákazníků.</strong></h5>",
+                                "helios_product_id": 8114,
+                                "version_id": "00820217"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 9413,
+                                "nazev_cj": "Králičí + Hrách",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 5298,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% králičí maso, vepřové maso), hrách, brambory.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Králičí a hrách si pro svého psa v minulém týdnu vybralo 190 zákazníků.</strong></h5>",
+                                "helios_product_id": 8114,
+                                "version_id": "00890224"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 9412,
+                                "nazev_cj": "Králičí + Kukuřice",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 5298,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (králičí maso, vepřové maso), kukuřice, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Králičí a kukuřici si pro svého psa v minulém týdnu vybralo 135 zákazníků.</strong></h5>",
+                                "helios_product_id": 8105,
+                                "version_id": "00470195"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 9411,
+                                "nazev_cj": "Králičí + Rýže",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 5298,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (králičí maso, vepřové maso), rýže, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Králičí a rýži si pro svého psa v minulém týdnu vybralo 268 zákazníků.</strong></h5>",
+                                "helios_product_id": 8096,
+                                "version_id": "01460295"
+                            }
+                        }
+                    }
+                },
+                "2838": {
+                    "nazev": "Krůtí",
+                    "cena_kategorie": "MID",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 9525,
+                                "nazev_cj": "Krůtí + Brambory",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 2838,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (krůtí maso, vepřové maso), brambory, hrách.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Krůtí a brambory si pro svého psa v minulém týdnu vybralo 184 zákazníků.</strong></h5>",
+                                "helios_product_id": 8074,
+                                "version_id": "00960238"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 9523,
+                                "nazev_cj": "Krůtí + Hrách",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 2838,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (krůtí maso, vepřové maso), hrách, brambory.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Krůtí a hrách si pro svého psa v minulém týdnu vybralo 226 zákazníků.</strong></h5>",
+                                "helios_product_id": 8074,
+                                "version_id": "01180259"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 9522,
+                                "nazev_cj": "Krůtí + Kukuřice",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 2838,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (krůtí maso, vepřové maso), kukuřice, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Krůtí a kukuřici si pro svého psa v minulém týdnu vybralo 162 zákazníků.</strong></h5>",
+                                "helios_product_id": 8065,
+                                "version_id": "00540217"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 9521,
+                                "nazev_cj": "Krůtí + Rýže",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 2838,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "MID",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (krůtí maso, vepřové maso), rýže, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Krůtí a rýži si pro svého psa v minulém týdnu vybralo 322 zákazníků.</strong></h5>",
+                                "helios_product_id": 8083,
+                                "version_id": "01880365"
+                            }
+                        }
+                    }
+                },
+                "1241": {
+                    "nazev": "Kuřecí",
+                    "cena_kategorie": "LOW",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 5330,
+                                "nazev_cj": "Kuřecí + Brambory",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1241,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "LOW",
+                                "dostupnost": "není možné právě nakoupit",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (kuřecí maso), brambory, hrách.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Kuřecí&nbsp;a brambory si pro svého psa v minulém týdnu vybralo 0 zákazníků.</strong></h5>",
+                                "helios_product_id": 7173,
+                                "version_id": "00000000"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 5331,
+                                "nazev_cj": "Kuřecí + Hrách",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1241,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "LOW",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (kuřecí maso), hrách, brambory.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Kuřecí&nbsp;a hrách si pro svého psa v minulém týdnu vybralo 424 zákazníků.</strong></h5>",
+                                "helios_product_id": 7173,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 5332,
+                                "nazev_cj": "Kuřecí + Kukuřice",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1241,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "LOW",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (kuřecí maso), kukuřice, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Kuřecí&nbsp;a kukuřici&nbsp;si pro svého psa v minulém týdnu vybralo 463 zákazníků.</strong></h5>",
+                                "helios_product_id": 7119,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 5333,
+                                "nazev_cj": "Kuřecí + Rýže",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1241,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "LOW",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (kuřecí maso), rýže, vaječný bílek, jablko.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Kuřecí&nbsp;a rýži&nbsp;si pro svého psa v minulém týdnu vybralo 978 zákazníků.</strong></h5>",
+                                "helios_product_id": 7065,
+                                "version_id": "09681000"
+                            }
+                        }
+                    }
+                },
+                "1258": {
+                    "nazev": "Losos",
+                    "cena_kategorie": "HIGH",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 5334,
+                                "nazev_cj": "Losos + Brambory",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1258,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "za dní 14",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (maso z lososa, vepřové maso), brambory, hrách.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Lososa a brambory si pro svého psa v minulém týdnu vybralo 497 zákazníků.</strong></h5>",
+                                "helios_product_id": 7200,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 5335,
+                                "nazev_cj": "Losos + Hrách",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1258,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (maso z lososa, vepřové maso), hrách, brambory.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Lososa a hrách si pro svého psa v minulém týdnu vybralo 350 zákazníků.</strong></h5>",
+                                "helios_product_id": 7200,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 5336,
+                                "nazev_cj": "Losos + Kukuřice",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1258,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (maso z lososa, vepřové maso), kukuřice, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Lososa a kukuřici si pro svého psa v minulém týdnu vybralo 492 zákazníků.</strong></h5>",
+                                "helios_product_id": 7146,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 5337,
+                                "nazev_cj": "Losos + Rýže",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1258,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (maso z lososa, vepřové maso), rýže, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Lososa a rýži si pro svého psa v minulém týdnu vybralo 531 zákazníků.</strong></h5>",
+                                "helios_product_id": 7092,
+                                "version_id": "03500541"
+                            }
+                        }
+                    }
+                },
+                "1250": {
+                    "nazev": "Treska",
+                    "cena_kategorie": "HIGH",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 5338,
+                                "nazev_cj": "Treska + Brambory",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1250,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (maso z tresky, vepřové maso), brambory, hrách.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Tresku a brambory si pro svého psa v minulém týdnu vybralo 496 zákazníků.</strong></h5>",
+                                "helios_product_id": 7200,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 5339,
+                                "nazev_cj": "Treska + Hrách",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1250,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (maso z tresky, vepřové maso), hrách, brambory.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Tresku a hrách si pro svého psa v minulém týdnu vybralo 521 zákazníků.</strong></h5>",
+                                "helios_product_id": 7200,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 5340,
+                                "nazev_cj": "Treska + Kukuřice",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1250,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (maso z tresky, vepřové maso), kukuřice, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Tresku a kukuřici si pro svého psa v minulém týdnu vybralo 512 zákazníků.</strong></h5>",
+                                "helios_product_id": 7146,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 5341,
+                                "nazev_cj": "Treska + Rýže",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1250,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (maso z tresky, vepřové maso), rýže, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Tresku a rýži si pro svého psa v minulém týdnu vybralo 527 zákazníků.</strong></h5>",
+                                "helios_product_id": 7092,
+                                "version_id": "03500541"
+                            }
+                        }
+                    }
+                },
+                "1249": {
+                    "nazev": "Vepřové",
+                    "cena_kategorie": "LOW",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 5342,
+                                "nazev_cj": "Vepřové + Brambory",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1249,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "LOW",
+                                "dostupnost": "",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (vepřové maso), brambory, hrách.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Vepřové a brambory si pro svého psa v minulém týdnu vybralo 0 zákazníků.</strong></h5>",
+                                "helios_product_id": 7209,
+                                "version_id": "00000000"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 5343,
+                                "nazev_cj": "Vepřové + Hrách",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1249,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "LOW",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (vepřové maso), hrách, brambory.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Vepřové a hrách si pro svého psa v minulém týdnu vybralo 522 zákazníků.</strong></h5>",
+                                "helios_product_id": 7209,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 5344,
+                                "nazev_cj": "Vepřové + Kukuřice",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1249,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "LOW",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (vepřové maso), kukuřice, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Vepřové a kukuřici si pro svého psa v minulém týdnu vybralo 375 zákazníků.</strong></h5>",
+                                "helios_product_id": 7155,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 5345,
+                                "nazev_cj": "Vepřové + Rýže",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1249,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "LOW",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (vepřové maso), rýže, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Vepřové a rýži si pro svého psa v minulém týdnu vybralo 477 zákazníků.</strong></h5>",
+                                "helios_product_id": 7101,
+                                "version_id": "03500541"
+                            }
+                        }
+                    }
+                },
+                "1257": {
+                    "nazev": "Zvěřina",
+                    "cena_kategorie": "HIGH",
+                    "obrazek": null,
+                    "prilohy": {
+                        "1245": {
+                            "nazev": "Brambory",
+                            "receptura": {
+                                "id": 5346,
+                                "nazev_cj": "Zvěřina + Brambory",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1257,
+                                "priloha_id": 1245,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (jelení a srnčí maso, vepřové maso), brambory, hrách.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Zvěřinu a brambory si pro svého psa v minulém týdnu vybralo 361 zákazníků.</strong></h5>",
+                                "helios_product_id": 7530,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1246": {
+                            "nazev": "Hrách",
+                            "receptura": {
+                                "id": 5347,
+                                "nazev_cj": "Zvěřina + Hrách",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1257,
+                                "priloha_id": 1246,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "<h5 style=\"color:var(--secondary-500);\"> <strong>Zvěřinu a hrách si pro svého psa v minulém týdnu vybralo [weekly_customers]zákazníků.</strong></h5>",
+                                "stitek": "žádný",
+                                "receptury_popis": "<p>\r\n\tMasová náplň 68% (jelení a srnčí maso, vepřové maso), hrách, brambory.</p>\r\n\r\n<h5 style=\"color:var(--secondary-500)\">\r\n\t<strong>Zvěřinu a hrách si pro svého psa v minulém týdnu vybralo 304 zákazníků.</strong></h5>",
+                                "helios_product_id": 7530,
+                                "version_id": "02200397"
+                            }
+                        },
+                        "1251": {
+                            "nazev": "Kukuřice",
+                            "receptura": {
+                                "id": 5348,
+                                "nazev_cj": "Zvěřina + Kukuřice",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1257,
+                                "priloha_id": 1251,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (jelení a srnčí maso, vepřové maso), kukuřice, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Zvěřinu a kukuřici&nbsp;si pro svého psa v minulém týdnu vybralo 533 zákazníků.</strong></h5>",
+                                "helios_product_id": 7521,
+                                "version_id": "03500541"
+                            }
+                        },
+                        "1244": {
+                            "nazev": "Rýže",
+                            "receptura": {
+                                "id": 5349,
+                                "nazev_cj": "Zvěřina + Rýže",
+                                "typ_receptury": "maintenance",
+                                "maso_id": 1257,
+                                "priloha_id": 1244,
+                                "cena_kategorie": "HIGH",
+                                "dostupnost": "",
+                                "stitek": "",
+                                "receptury_popis": "<p>\n\tMasová náplň 68% (jelení a srnčí maso, vepřové maso), rýže, vaječný bílek, jablko.</p>\n\n<h5 style=\"color:var(--secondary-500)\">\n\t<strong>Zvěřinu a rýži si pro svého psa v minulém týdnu vybralo 403 zákazníků.</strong></h5>",
+                                "helios_product_id": 7512,
+                                "version_id": "03500541"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "indexes": {
+        "masa_by_type": {
+            "grow": [
+                "1241",
+                "1242",
+                "1243",
+                "1249",
+                "1250",
+                "1254",
+                "1257",
+                "1258",
+                "1259",
+                "2838",
+                "5298",
+                "9558",
+                "9596"
+            ],
+            "maintenance": [
+                "1241",
+                "1242",
+                "1243",
+                "1249",
+                "1250",
+                "1254",
+                "1257",
+                "1258",
+                "1259",
+                "2838",
+                "5298",
+                "9558",
+                "9596"
+            ]
+        },
+        "prilohy_by_type": {
+            "grow": [
+                "1244",
+                "1245",
+                "1246",
+                "1251"
+            ],
+            "maintenance": [
+                "1244",
+                "1245",
+                "1246",
+                "1251"
+            ]
+        },
+        "receptura_lookup": {
+            "grow_1259_1245": 5350,
+            "grow_1259_1246": 5351,
+            "grow_1259_1251": 5352,
+            "grow_1259_1244": 5353,
+            "grow_1254_1245": 5354,
+            "grow_1254_1246": 5355,
+            "grow_1254_1251": 5356,
+            "grow_1254_1244": 5357,
+            "grow_1242_1245": 5358,
+            "grow_1242_1246": 5359,
+            "grow_1242_1251": 5360,
+            "grow_1242_1244": 5361,
+            "grow_9558_1245": 9576,
+            "grow_9558_1246": 9574,
+            "grow_9558_1251": 9573,
+            "grow_9558_1244": 9572,
+            "grow_1243_1245": 5362,
+            "grow_1243_1246": 5363,
+            "grow_1243_1251": 5364,
+            "grow_1243_1244": 5365,
+            "grow_9596_1245": 9605,
+            "grow_9596_1246": 9604,
+            "grow_9596_1251": 9603,
+            "grow_9596_1244": 9601,
+            "grow_5298_1245": 9410,
+            "grow_5298_1246": 9409,
+            "grow_5298_1251": 9408,
+            "grow_5298_1244": 9407,
+            "grow_2838_1245": 9520,
+            "grow_2838_1246": 9519,
+            "grow_2838_1251": 9518,
+            "grow_2838_1244": 9517,
+            "grow_1241_1245": 5366,
+            "grow_1241_1246": 5367,
+            "grow_1241_1251": 5368,
+            "grow_1241_1244": 5369,
+            "grow_1258_1245": 5370,
+            "grow_1258_1246": 5371,
+            "grow_1258_1251": 5372,
+            "grow_1258_1244": 5373,
+            "grow_1250_1245": 5374,
+            "grow_1250_1246": 5375,
+            "grow_1250_1251": 5376,
+            "grow_1250_1244": 5377,
+            "grow_1249_1245": 5378,
+            "grow_1249_1246": 5379,
+            "grow_1249_1251": 5380,
+            "grow_1249_1244": 5381,
+            "grow_1257_1245": 5382,
+            "grow_1257_1246": 5383,
+            "grow_1257_1251": 5384,
+            "grow_1257_1244": 5385,
+            "maintenance_1259_1245": 5314,
+            "maintenance_1259_1246": 5315,
+            "maintenance_1259_1251": 5316,
+            "maintenance_1259_1244": 5317,
+            "maintenance_1254_1245": 5318,
+            "maintenance_1254_1246": 5319,
+            "maintenance_1254_1251": 5320,
+            "maintenance_1254_1244": 5321,
+            "maintenance_1242_1245": 5322,
+            "maintenance_1242_1246": 5323,
+            "maintenance_1242_1251": 5324,
+            "maintenance_1242_1244": 5325,
+            "maintenance_9558_1245": 9589,
+            "maintenance_9558_1246": 9588,
+            "maintenance_9558_1251": 9586,
+            "maintenance_9558_1244": 9577,
+            "maintenance_1243_1245": 5326,
+            "maintenance_1243_1246": 5327,
+            "maintenance_1243_1251": 5328,
+            "maintenance_1243_1244": 5329,
+            "maintenance_9596_1245": 9610,
+            "maintenance_9596_1246": 9609,
+            "maintenance_9596_1251": 9607,
+            "maintenance_9596_1244": 9606,
+            "maintenance_5298_1245": 9414,
+            "maintenance_5298_1246": 9413,
+            "maintenance_5298_1251": 9412,
+            "maintenance_5298_1244": 9411,
+            "maintenance_2838_1245": 9525,
+            "maintenance_2838_1246": 9523,
+            "maintenance_2838_1251": 9522,
+            "maintenance_2838_1244": 9521,
+            "maintenance_1241_1245": 5330,
+            "maintenance_1241_1246": 5331,
+            "maintenance_1241_1251": 5332,
+            "maintenance_1241_1244": 5333,
+            "maintenance_1258_1245": 5334,
+            "maintenance_1258_1246": 5335,
+            "maintenance_1258_1251": 5336,
+            "maintenance_1258_1244": 5337,
+            "maintenance_1250_1245": 5338,
+            "maintenance_1250_1246": 5339,
+            "maintenance_1250_1251": 5340,
+            "maintenance_1250_1244": 5341,
+            "maintenance_1249_1245": 5342,
+            "maintenance_1249_1246": 5343,
+            "maintenance_1249_1251": 5344,
+            "maintenance_1249_1244": 5345,
+            "maintenance_1257_1245": 5346,
+            "maintenance_1257_1246": 5347,
+            "maintenance_1257_1251": 5348,
+            "maintenance_1257_1244": 5349
+        }
+    }
+}
